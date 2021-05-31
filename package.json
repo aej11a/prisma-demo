@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Andrew Jones",
-  "license": "UNLICENSED",
+  "author": "Andrew Jones @ajones55555",
+  "license": "MIT",
   "private": "true",
   "devDependencies": {
     "prisma": "^2.23.0"
